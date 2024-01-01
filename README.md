@@ -83,3 +83,5 @@ curl -X POST http://localhost:8090/v1/evaluate \
 ```bash
 make test
 ```
+
+- Changelog: minor updates.
