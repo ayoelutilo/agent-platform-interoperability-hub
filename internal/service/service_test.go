@@ -205,3 +205,5 @@ func (a *countingAdapter) Evaluate(_ context.Context, _ providers.EvaluateReques
 		Summary:  "ok",
 	}, nil
 }
+
+// Refinement.
