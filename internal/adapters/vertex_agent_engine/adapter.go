@@ -132,3 +132,5 @@ func prefixScore(expected, actual string) float64 {
 	}
 	return float64(commonPrefix) / float64(denominator)
 }
+
+// Refinement.
