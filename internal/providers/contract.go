@@ -66,3 +66,5 @@ type EvaluateResponse struct {
 	Summary  string       `json:"summary"`
 	Trace    schema.Trace `json:"trace"`
 }
+
+// Refinement.
