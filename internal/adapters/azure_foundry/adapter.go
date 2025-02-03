@@ -140,3 +140,5 @@ func similarity(expected, actual string) float64 {
 	}
 	return float64(intersections) / float64(union)
 }
+
+// Refinement.
