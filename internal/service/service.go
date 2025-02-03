@@ -161,3 +161,5 @@ func (s *HubService) adapter(provider string) (providers.Adapter, error) {
 	}
 	return adapter, nil
 }
+
+// Refinement.
