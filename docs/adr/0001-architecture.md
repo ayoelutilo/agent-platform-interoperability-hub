@@ -34,3 +34,5 @@ Tradeoffs:
 - In-memory idempotency is process-local and non-durable.
 
 - Changelog: minor updates.
+
+- Changelog: minor updates.
