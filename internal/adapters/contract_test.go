@@ -115,3 +115,5 @@ func TestAdapterContract(t *testing.T) {
 }
 
 // Refinement.
+
+// Refinement.
