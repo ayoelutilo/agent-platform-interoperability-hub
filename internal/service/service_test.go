@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/providers"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/schema"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/providers"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/schema"
 )
 
 func TestRunIdempotencyIsScopedToProvider(t *testing.T) {

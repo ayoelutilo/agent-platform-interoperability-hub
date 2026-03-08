@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/schema"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/schema"
 )
 
 func NewTrace(provider, operation string, spanNames ...string) schema.Trace {

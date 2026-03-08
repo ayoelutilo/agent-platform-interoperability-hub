@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/schema"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/service"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/schema"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/service"
 )
 
 type Server struct {

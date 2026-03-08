@@ -9,8 +9,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/httpapi"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/service"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/httpapi"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/service"
 )
 
 func main() {

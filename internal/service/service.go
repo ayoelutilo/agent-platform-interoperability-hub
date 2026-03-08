@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/adapters/azure_foundry"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/adapters/bedrock_agentcore"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/adapters/vertex_agent_engine"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/providers"
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/schema"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/adapters/azure_foundry"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/adapters/bedrock_agentcore"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/adapters/vertex_agent_engine"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/providers"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/schema"
 )
 
 var ErrAdapterNotFound = errors.New("adapter not found")

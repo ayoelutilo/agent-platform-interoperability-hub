@@ -3,7 +3,7 @@ package providers
 import (
 	"context"
 
-	"github.com/oss-showcase/agent-platform-interoperability-hub/internal/schema"
+	"github.com/ayoelutilo/agent-platform-interoperability-hub/internal/schema"
 )
 
 type Adapter interface {
