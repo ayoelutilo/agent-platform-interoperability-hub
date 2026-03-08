@@ -145,7 +145,3 @@ func tokens(in string) []string {
 	}
 	return out
 }
-
-// Refinement.
-
-// Refinement.

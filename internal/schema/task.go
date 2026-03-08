@@ -27,5 +27,3 @@ type TraceSpan struct {
 	FinishedAt time.Time         `json:"finished_at"`
 	Attributes map[string]string `json:"attributes,omitempty"`
 }
-
-// Refinement.

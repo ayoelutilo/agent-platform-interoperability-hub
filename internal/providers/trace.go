@@ -29,5 +29,3 @@ func NewTrace(provider, operation string, spanNames ...string) schema.Trace {
 		Spans:     spans,
 	}
 }
-
-// Refinement.

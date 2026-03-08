@@ -32,7 +32,3 @@ Tradeoffs:
 
 - Current adapters are mocks and not production SDK integrations.
 - In-memory idempotency is process-local and non-durable.
-
-- Changelog: minor updates.
-
-- Changelog: minor updates.
